@@ -1,0 +1,249 @@
+{
+  "chain": "base",
+  "factory": "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6",
+  "window_minutes": 60,
+  "latest_block": 48664667,
+  "count": 20,
+  "pairs": [
+    {
+      "pair_address": "0x7554639fc160c6e8ce227696c9046c6552f0fab9",
+      "tokens": [
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        "0x87b0ca650a5ecc10a6741ead4c9b345c7770bade"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48662989",
+      "tx_hash": "0x5c9cc0d677c8f608ef85b8735e93afbaf5cac396e091c70971498aa83055cca3",
+      "block_number": "48662989"
+    },
+    {
+      "pair_address": "0xb0a04fd3e2d28c4ff0b25802e8097560cf898a15",
+      "tokens": [
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        "0x22ea4502340abfc07ab2f5cc9d8e3bc816717853"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48662994",
+      "tx_hash": "0xe4c1f03c9d428030d28877c349726f19018602c2c1438d77ffd0af3a10639191",
+      "block_number": "48662994"
+    },
+    {
+      "pair_address": "0xfbcb1bdd0f78b860b3820453c7e8ad64a7b1e3f2",
+      "tokens": [
+        "0x4200000000000000000000000000000000000006",
+        "0xca93770bbdb918a33800a68ae860ec38c12807a9"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663093",
+      "tx_hash": "0x11362c689c8136ec3995bd8c1be5993a114118b279c78c7b54e2eea897118286",
+      "block_number": "48663093"
+    },
+    {
+      "pair_address": "0xe7c3298a2fdcdf3dd944fda028b6f2adef3b208d",
+      "tokens": [
+        "0x2f435bcdc61471874ca62633e560a51ca89be55a",
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663211",
+      "tx_hash": "0xd12caa7c47a9b8cd728e3d14c41d1647f27e46987708a0654a3f8647f6de3670",
+      "block_number": "48663211"
+    },
+    {
+      "pair_address": "0x6143d3401ca4af225416309a076835b1d06f25e9",
+      "tokens": [
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        "0xef9fa5fc6f2b2463c3a81d757522b8178f3d6d6f"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663239",
+      "tx_hash": "0x2d8488d4cc33a2d0be5f74c2bb6aee9e7da7ca046f4aa8fcd181526073e79f2a",
+      "block_number": "48663239"
+    },
+    {
+      "pair_address": "0xf8d5d50aa14095dc7b40061537fbbc30f2d5cd1b",
+      "tokens": [
+        "0x08ac67f6c905e579556e726efc8f4dc67f43400c",
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663372",
+      "tx_hash": "0x34e0ff9f82c2d9e7b7aa8ad859fe6232992ebe78322906ed11126876aeac0206",
+      "block_number": "48663372"
+    },
+    {
+      "pair_address": "0x2be01e5c00226136a95050daade7602f460d2c5b",
+      "tokens": [
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        "0x8a6ffeb1e5c727da518f7819c87c5c33d9c703fb"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663466",
+      "tx_hash": "0x983eaaba60e71e2ceba104f799b6cbd643321c528930085fafdc571c277f6a22",
+      "block_number": "48663466"
+    },
+    {
+      "pair_address": "0x7f8d607df80201369170d9db51b13cda7a608a4c",
+      "tokens": [
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        "0x5600dd70c065cc3ae5f0113f5094f05f98989e2b"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663479",
+      "tx_hash": "0x4c37d4510684d81ab7abb54e56e1b98c3065ad35384baf5e96ed8351d7c1cd98",
+      "block_number": "48663479"
+    },
+    {
+      "pair_address": "0x89e237893dd6728f962c8ca0a532d10b33f1acb2",
+      "tokens": [
+        "0x2329af02075817e371d722fb6e0b520b4d352fda",
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663555",
+      "tx_hash": "0x0e34f0d5fd7fc350b881ac89731f458a12cb7ec3e9975ecfeea79b8a475b7ce9",
+      "block_number": "48663555"
+    },
+    {
+      "pair_address": "0xd1ed1127a7f0de1df382bb48541ed7f144f4b844",
+      "tokens": [
+        "0x377bef37acdbc4ffe8ac0f4afe616e59d46b3f6a",
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663607",
+      "tx_hash": "0xdf30e0e5926783fa8ff10a1be3c7c3980c8ffd3d5b2889573f2cf4fe2e57b51e",
+      "block_number": "48663607"
+    },
+    {
+      "pair_address": "0xecaec2bf89784bb158b3f6b2b9cd706c104e8e1e",
+      "tokens": [
+        "0x4200000000000000000000000000000000000006",
+        "0xb923d071b58549803147a4d1ef82618a458b6275"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663727",
+      "tx_hash": "0x6439ec9539490648b7e5d2ef2ac4c069762c2e5db490bb390ef4275df8da4b66",
+      "block_number": "48663727"
+    },
+    {
+      "pair_address": "0xb177cf0f3df7c20b97d931dc2a4b9487b60cef10",
+      "tokens": [
+        "0x4200000000000000000000000000000000000006",
+        "0xcfeaae85db8950bc86ef22eabf952911eff492fb"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663757",
+      "tx_hash": "0x83520f3c5ad6ec71c7b2c11bf849477beed451b708cab5bb9349d316ef1c6de5",
+      "block_number": "48663757"
+    },
+    {
+      "pair_address": "0x6de6083ab42c587ba92103d8e4cfeedbacfc2bf0",
+      "tokens": [
+        "0x4200000000000000000000000000000000000006",
+        "0x819cce829127d0b01dbb3c4a79e9f6e523a38f37"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663780",
+      "tx_hash": "0x6737cf297795fe3900e6a9aa39965fd1e3f1f8e2d7a60d186bb6a34ee5da21ee",
+      "block_number": "48663780"
+    },
+    {
+      "pair_address": "0xc88b0f0c4616e3a0e30b3e56ad146ec4778d5eb4",
+      "tokens": [
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        "0x3f87f78267d929128a1ae54cd4936c782dd25c4f"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48663919",
+      "tx_hash": "0xc0a5cd5c601359a772600229d79be3f521a772b9e9fc4a0bef0517f06cae5433",
+      "block_number": "48663919"
+    },
+    {
+      "pair_address": "0x59f8a387183534fb5ff799a7a8952c7bcad96931",
+      "tokens": [
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b",
+        "0xbbb3b1498b7813b91094a3f754b42e2d43f6bff6"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48664189",
+      "tx_hash": "0x1775ddf729d1ba8160e39f3d27e34e0f333df9e659b71a0a848ad3826fe76a37",
+      "block_number": "48664189"
+    },
+    {
+      "pair_address": "0x5fa69455050ecfa23377a1f66d295935e61e93ab",
+      "tokens": [
+        "0x00a74a2445c9740219accc2f5a03ca22ff05f918",
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48664253",
+      "tx_hash": "0xc46111206f5ae329129ba1115eaa535d27123377998cd4a41a9d625b268e1f3c",
+      "block_number": "48664253"
+    },
+    {
+      "pair_address": "0x770b69519959c4e28c178baabbc7c02e50769af9",
+      "tokens": [
+        "0x2b880980599417c60305d63d0e265d4042939453",
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48664310",
+      "tx_hash": "0x35b1358d46b1ca29f9feed1c99919323bde50d1350f3a05753a257ada108b3e7",
+      "block_number": "48664310"
+    },
+    {
+      "pair_address": "0x8f319fae79706def7849a8dcebe9fbc3da483c86",
+      "tokens": [
+        "0x297d9a5482a771e83ebc23b7df12cc71e6f95126",
+        "0x4200000000000000000000000000000000000006"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48664343",
+      "tx_hash": "0xf6242aa3782eabe352eb328b6cc7df8481a92adbe1fcec662856952a4c3c8368",
+      "block_number": "48664343"
+    },
+    {
+      "pair_address": "0x4e9430ab113dabc6917f3f2e48873ee2c79358b8",
+      "tokens": [
+        "0x4200000000000000000000000000000000000006",
+        "0x92eda49a6474bd1abb750edfdc3768c8251f122d"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48664357",
+      "tx_hash": "0xe08fb365632588dc54a8c5b997ce57e25e69ec7929e79bde28232950b2b74d11",
+      "block_number": "48664357"
+    },
+    {
+      "pair_address": "0x26b3af249941f83f6879d7bea18fe508556ef8c5",
+      "tokens": [
+        "0x0a9c3b2cd89c90ce2a8f3c2c24fb268bef8ed222",
+        "0x0b3e328455c4059eeb9e3f84b5543f74e24e7e1b"
+      ],
+      "init_liquidity": "unknown",
+      "top_holders": [],
+      "created_at": "block:48664638",
+      "tx_hash": "0xe4fbc30b8bf9138111d94adfb4d1033fb0d28a62ea333f4f41dfe792fc406fd1",
+      "block_number": "48664638"
+    }
+  ]
+}
